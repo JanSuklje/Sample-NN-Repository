@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ../gdrivre:/1umyJyqT2BnCw8OKYo6-cQyXhGtGSwCyM
